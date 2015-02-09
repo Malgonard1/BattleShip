@@ -1,12 +1,13 @@
 /*
-** my_strcmp.c for  in /home/chicoi_r/piscine/c/jour04/my_strcmp
+** my_strcmp.c for p in /Users/Malonga/Downloads/BattleShip/BattleShip.git/trunk
 ** 
-** Made by Romain Chicoisne
-** Login   <chicoi_r@etna-alternance.net>
+** Made by MALONGA alan
+** Login   <malong_a@etna-alternance.net>
 ** 
-** Started on  Thu Oct 23 10:19:19 2014 Romain Chicoisne
-** Last update Sat Oct 25 17:36:52 2014 Romain Chicoisne
+** Started on  Mon Feb  9 21:30:54 2015 MALONGA alan
+** Last update Mon Feb  9 21:30:57 2015 MALONGA alan
 */
+
 
 #include	"my.h"
 

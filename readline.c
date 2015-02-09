@@ -1,12 +1,13 @@
 /*
-** readline.c for battleship in /home/chicoi_r/piscine/c/battleship
+** readline.c for p in /Users/Malonga/Downloads/BattleShip/BattleShip.git/trunk
 ** 
-** Made by Romain Chicoisne
-** Login   <chicoi_r@etna-alternance.net>
+** Made by MALONGA alan
+** Login   <malong_a@etna-alternance.net>
 ** 
-** Started on  Sat Oct 25 09:37:26 2014 Romain Chicoisne
-** Last update Sat Oct 25 10:31:41 2014 Romain Chicoisne
+** Started on  Mon Feb  9 21:31:35 2015 MALONGA alan
+** Last update Mon Feb  9 21:31:38 2015 MALONGA alan
 */
+
 
 #include	<stdlib.h>
 #include	<unistd.h>

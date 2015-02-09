@@ -1,12 +1,13 @@
 /*
-** my.h for battleship in /home/chicoi_r/piscine/c/battleship
+** my.h for p in /Users/Malonga/Downloads/BattleShip/BattleShip.git/trunk
 ** 
-** Made by Romain Chicoisne
-** Login   <chicoi_r@etna-alternance.net>
+** Made by MALONGA alan
+** Login   <malong_a@etna-alternance.net>
 ** 
-** Started on  Sat Oct 25 09:43:04 2014 Romain Chicoisne
-** Last update Sat Oct 25 18:05:51 2014 Romain Chicoisne
+** Started on  Mon Feb  9 21:29:34 2015 MALONGA alan
+** Last update Mon Feb  9 21:29:36 2015 MALONGA alan
 */
+
 
 #ifndef		MY_H_
 # define	MY_H_

@@ -1,12 +1,13 @@
 /*
-** functions.c for battleship in /home/chicoi_r/piscine/c/battleship
+** functions.c for p in /Users/Malonga/Downloads/BattleShip/BattleShip.git/trunk
 ** 
-** Made by Romain Chicoisne
-** Login   <chicoi_r@etna-alternance.net>
+** Made by MALONGA alan
+** Login   <malong_a@etna-alternance.net>
 ** 
-** Started on  Sat Oct 25 09:45:07 2014 Romain Chicoisne
-** Last update Sat Oct 25 10:50:53 2014 Romain Chicoisne
+** Started on  Mon Feb  9 21:28:20 2015 MALONGA alan
+** Last update Mon Feb  9 21:28:26 2015 MALONGA alan
 */
+
 
 #include	<unistd.h>
 #include	"my.h"

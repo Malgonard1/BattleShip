@@ -1,12 +1,13 @@
 /*
-** my_put_nbr.c for battleship in /home/chicoi_r/piscine/c/jour01/my_put_nbr
+** my_put_nbr.c for p in /Users/Malonga/Downloads/BattleShip/BattleShip.git/trunk
 ** 
-** Made by Romain Chicoisne
-** Login   <chicoi_r@etna-alternance.net>
+** Made by MALONGA alan
+** Login   <malong_a@etna-alternance.net>
 ** 
-** Started on  Mon Oct 20 15:48:35 2014 Romain Chicoisne
-** Last update Sat Oct 25 14:57:06 2014 Romain Chicoisne
+** Started on  Mon Feb  9 21:30:27 2015 MALONGA alan
+** Last update Mon Feb  9 21:30:30 2015 MALONGA alan
 */
+
 
 #include	"my.h"
 

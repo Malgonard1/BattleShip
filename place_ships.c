@@ -1,12 +1,13 @@
 /*
-** place_ship.c for battleship in /home/chicoi_r/piscine/c/battleship
-**
-** Made by Romain Chicoisne
-** Login   <chicoi_r@etna-alternance.net>
-**
-** Started on  Sat Oct 25 15:01:08 2014 Romain Chicoisne
-** Last update Sat Oct 25 16:52:37 2014 Romain Chicoisne
+** place_ships.c for p in /Users/Malonga/Downloads/BattleShip/BattleShip.git/trunk
+** 
+** Made by MALONGA alan
+** Login   <malong_a@etna-alternance.net>
+** 
+** Started on  Mon Feb  9 21:31:16 2015 MALONGA alan
+** Last update Mon Feb  9 21:31:19 2015 MALONGA alan
 */
+
 
 #include	<stdlib.h>
 #include	"my.h"

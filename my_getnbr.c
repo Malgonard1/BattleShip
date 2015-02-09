@@ -1,12 +1,13 @@
 /*
-** my_getnbr.c for get number in /home/chicoi_r/piscine/c/jour03/my_getnbr
+** my_getnbr.c for p in /Users/Malonga/Downloads/BattleShip/BattleShip.git/trunk
 ** 
-** Made by Romain Chicoisne
-** Login   <chicoi_r@etna-alternance.net>
+** Made by MALONGA alan
+** Login   <malong_a@etna-alternance.net>
 ** 
-** Started on  Wed Oct 22 10:26:11 2014 Romain Chicoisne
-** Last update Sat Oct 25 15:26:28 2014 Romain Chicoisne
+** Started on  Mon Feb  9 21:30:02 2015 MALONGA alan
+** Last update Mon Feb  9 21:30:05 2015 MALONGA alan
 */
+
 
 int	my_getnbr(char *str)
 {
